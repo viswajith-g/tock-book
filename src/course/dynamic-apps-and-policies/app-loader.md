@@ -81,7 +81,7 @@ installing the app via the menu.
 
 You are even encouraged to write your own applications, maybe make modifications
 to existing examples in your own directory, or write a whole custom app for the
-`nrf51840DK`.
+`nrf52840DK`.
 
 ```
 APPS_TO_EMBED := \
